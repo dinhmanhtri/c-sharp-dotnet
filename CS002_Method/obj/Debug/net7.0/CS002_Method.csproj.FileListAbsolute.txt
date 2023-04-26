@@ -1,0 +1,15 @@
+D:\WorkSpace\C_Sharp\Basic_Xuanthulab\CS002_Method\obj\Debug\net7.0\CS002_Method.csproj.AssemblyReference.cache
+D:\WorkSpace\C_Sharp\Basic_Xuanthulab\CS002_Method\obj\Debug\net7.0\CS002_Method.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkSpace\C_Sharp\Basic_Xuanthulab\CS002_Method\obj\Debug\net7.0\CS002_Method.AssemblyInfoInputs.cache
+D:\WorkSpace\C_Sharp\Basic_Xuanthulab\CS002_Method\obj\Debug\net7.0\CS002_Method.AssemblyInfo.cs
+D:\WorkSpace\C_Sharp\Basic_Xuanthulab\CS002_Method\obj\Debug\net7.0\CS002_Method.csproj.CoreCompileInputs.cache
+D:\WorkSpace\C_Sharp\Basic_Xuanthulab\CS002_Method\bin\Debug\net7.0\CS002_Method.exe
+D:\WorkSpace\C_Sharp\Basic_Xuanthulab\CS002_Method\bin\Debug\net7.0\CS002_Method.deps.json
+D:\WorkSpace\C_Sharp\Basic_Xuanthulab\CS002_Method\bin\Debug\net7.0\CS002_Method.runtimeconfig.json
+D:\WorkSpace\C_Sharp\Basic_Xuanthulab\CS002_Method\bin\Debug\net7.0\CS002_Method.dll
+D:\WorkSpace\C_Sharp\Basic_Xuanthulab\CS002_Method\bin\Debug\net7.0\CS002_Method.pdb
+D:\WorkSpace\C_Sharp\Basic_Xuanthulab\CS002_Method\obj\Debug\net7.0\CS002_Method.dll
+D:\WorkSpace\C_Sharp\Basic_Xuanthulab\CS002_Method\obj\Debug\net7.0\refint\CS002_Method.dll
+D:\WorkSpace\C_Sharp\Basic_Xuanthulab\CS002_Method\obj\Debug\net7.0\CS002_Method.pdb
+D:\WorkSpace\C_Sharp\Basic_Xuanthulab\CS002_Method\obj\Debug\net7.0\CS002_Method.genruntimeconfig.cache
+D:\WorkSpace\C_Sharp\Basic_Xuanthulab\CS002_Method\obj\Debug\net7.0\ref\CS002_Method.dll

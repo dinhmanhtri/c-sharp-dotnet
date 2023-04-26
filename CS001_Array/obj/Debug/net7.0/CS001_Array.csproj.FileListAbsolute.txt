@@ -1,0 +1,15 @@
+D:\WorkSpace\C_Sharp\Basic_Xuanthulab\CS001_Array\bin\Debug\net7.0\CS001_Array.exe
+D:\WorkSpace\C_Sharp\Basic_Xuanthulab\CS001_Array\bin\Debug\net7.0\CS001_Array.deps.json
+D:\WorkSpace\C_Sharp\Basic_Xuanthulab\CS001_Array\bin\Debug\net7.0\CS001_Array.runtimeconfig.json
+D:\WorkSpace\C_Sharp\Basic_Xuanthulab\CS001_Array\bin\Debug\net7.0\CS001_Array.dll
+D:\WorkSpace\C_Sharp\Basic_Xuanthulab\CS001_Array\bin\Debug\net7.0\CS001_Array.pdb
+D:\WorkSpace\C_Sharp\Basic_Xuanthulab\CS001_Array\obj\Debug\net7.0\CS001_Array.csproj.AssemblyReference.cache
+D:\WorkSpace\C_Sharp\Basic_Xuanthulab\CS001_Array\obj\Debug\net7.0\CS001_Array.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkSpace\C_Sharp\Basic_Xuanthulab\CS001_Array\obj\Debug\net7.0\CS001_Array.AssemblyInfoInputs.cache
+D:\WorkSpace\C_Sharp\Basic_Xuanthulab\CS001_Array\obj\Debug\net7.0\CS001_Array.AssemblyInfo.cs
+D:\WorkSpace\C_Sharp\Basic_Xuanthulab\CS001_Array\obj\Debug\net7.0\CS001_Array.csproj.CoreCompileInputs.cache
+D:\WorkSpace\C_Sharp\Basic_Xuanthulab\CS001_Array\obj\Debug\net7.0\CS001_Array.dll
+D:\WorkSpace\C_Sharp\Basic_Xuanthulab\CS001_Array\obj\Debug\net7.0\refint\CS001_Array.dll
+D:\WorkSpace\C_Sharp\Basic_Xuanthulab\CS001_Array\obj\Debug\net7.0\CS001_Array.pdb
+D:\WorkSpace\C_Sharp\Basic_Xuanthulab\CS001_Array\obj\Debug\net7.0\CS001_Array.genruntimeconfig.cache
+D:\WorkSpace\C_Sharp\Basic_Xuanthulab\CS001_Array\obj\Debug\net7.0\ref\CS001_Array.dll

@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZAzU+h/UfDh3sqKr5K2NrJ5nFCwLXssi+yNcO8dhYLxCHldpuUUFOTU+RpY5z6NtpJwOXJhYjr06AKUt/X666Q==",
+  "success": false,
+  "projectFilePath": "E:\\C_Sharp\\xuanthulab\\UsePackage\\UsePackage.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\manht\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1105",
+      "level": "Error",
+      "message": "Unable to find project information for 'E:\\C_Sharp\\xuanthulab\\Utils\\Utils.csproj'. If you are using Visual Studio, this may be because the project is unloaded or not part of the current solution so run a restore from the command-line. Otherwise, the project file may be invalid or missing targets required for restore.",
+      "libraryId": "E:\\C_Sharp\\xuanthulab\\Utils\\Utils.csproj",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}

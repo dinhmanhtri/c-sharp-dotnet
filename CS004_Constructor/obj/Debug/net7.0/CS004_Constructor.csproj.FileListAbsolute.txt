@@ -1,0 +1,15 @@
+D:\WorkSpace\C_Sharp\Basic_Xuanthulab\CS004_Constructor\obj\Debug\net7.0\CS004_Constructor.csproj.AssemblyReference.cache
+D:\WorkSpace\C_Sharp\Basic_Xuanthulab\CS004_Constructor\obj\Debug\net7.0\CS004_Constructor.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkSpace\C_Sharp\Basic_Xuanthulab\CS004_Constructor\obj\Debug\net7.0\CS004_Constructor.AssemblyInfoInputs.cache
+D:\WorkSpace\C_Sharp\Basic_Xuanthulab\CS004_Constructor\obj\Debug\net7.0\CS004_Constructor.AssemblyInfo.cs
+D:\WorkSpace\C_Sharp\Basic_Xuanthulab\CS004_Constructor\obj\Debug\net7.0\CS004_Constructor.csproj.CoreCompileInputs.cache
+D:\WorkSpace\C_Sharp\Basic_Xuanthulab\CS004_Constructor\bin\Debug\net7.0\CS004_Constructor.exe
+D:\WorkSpace\C_Sharp\Basic_Xuanthulab\CS004_Constructor\bin\Debug\net7.0\CS004_Constructor.deps.json
+D:\WorkSpace\C_Sharp\Basic_Xuanthulab\CS004_Constructor\bin\Debug\net7.0\CS004_Constructor.runtimeconfig.json
+D:\WorkSpace\C_Sharp\Basic_Xuanthulab\CS004_Constructor\bin\Debug\net7.0\CS004_Constructor.dll
+D:\WorkSpace\C_Sharp\Basic_Xuanthulab\CS004_Constructor\bin\Debug\net7.0\CS004_Constructor.pdb
+D:\WorkSpace\C_Sharp\Basic_Xuanthulab\CS004_Constructor\obj\Debug\net7.0\CS004_Constructor.dll
+D:\WorkSpace\C_Sharp\Basic_Xuanthulab\CS004_Constructor\obj\Debug\net7.0\refint\CS004_Constructor.dll
+D:\WorkSpace\C_Sharp\Basic_Xuanthulab\CS004_Constructor\obj\Debug\net7.0\CS004_Constructor.pdb
+D:\WorkSpace\C_Sharp\Basic_Xuanthulab\CS004_Constructor\obj\Debug\net7.0\CS004_Constructor.genruntimeconfig.cache
+D:\WorkSpace\C_Sharp\Basic_Xuanthulab\CS004_Constructor\obj\Debug\net7.0\ref\CS004_Constructor.dll

@@ -1,0 +1,12 @@
+D:\WorkSpace\C_Sharp\Basic_Xuanthulab\Utils\bin\Debug\net6.0\Utils.deps.json
+D:\WorkSpace\C_Sharp\Basic_Xuanthulab\Utils\bin\Debug\net6.0\Utils.dll
+D:\WorkSpace\C_Sharp\Basic_Xuanthulab\Utils\bin\Debug\net6.0\Utils.pdb
+D:\WorkSpace\C_Sharp\Basic_Xuanthulab\Utils\obj\Debug\net6.0\Utils.csproj.AssemblyReference.cache
+D:\WorkSpace\C_Sharp\Basic_Xuanthulab\Utils\obj\Debug\net6.0\Utils.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkSpace\C_Sharp\Basic_Xuanthulab\Utils\obj\Debug\net6.0\Utils.AssemblyInfoInputs.cache
+D:\WorkSpace\C_Sharp\Basic_Xuanthulab\Utils\obj\Debug\net6.0\Utils.AssemblyInfo.cs
+D:\WorkSpace\C_Sharp\Basic_Xuanthulab\Utils\obj\Debug\net6.0\Utils.csproj.CoreCompileInputs.cache
+D:\WorkSpace\C_Sharp\Basic_Xuanthulab\Utils\obj\Debug\net6.0\Utils.dll
+D:\WorkSpace\C_Sharp\Basic_Xuanthulab\Utils\obj\Debug\net6.0\refint\Utils.dll
+D:\WorkSpace\C_Sharp\Basic_Xuanthulab\Utils\obj\Debug\net6.0\Utils.pdb
+D:\WorkSpace\C_Sharp\Basic_Xuanthulab\Utils\obj\Debug\net6.0\ref\Utils.dll

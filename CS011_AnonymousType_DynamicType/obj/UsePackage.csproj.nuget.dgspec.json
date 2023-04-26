@@ -1,0 +1,69 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\WorkSpace\\C_Sharp\\Basic_Xuanthulab\\UsePackage\\UsePackage.csproj": {}
+  },
+  "projects": {
+    "D:\\WorkSpace\\C_Sharp\\Basic_Xuanthulab\\UsePackage\\UsePackage.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\WorkSpace\\C_Sharp\\Basic_Xuanthulab\\UsePackage\\UsePackage.csproj",
+        "projectName": "CS011_AnonymousType_DynamicType",
+        "projectPath": "D:\\WorkSpace\\C_Sharp\\Basic_Xuanthulab\\UsePackage\\UsePackage.csproj",
+        "packagesPath": "C:\\Users\\manht\\.nuget\\packages\\",
+        "outputPath": "D:\\WorkSpace\\C_Sharp\\Basic_Xuanthulab\\CS011_AnonymousType_DynamicType\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\manht\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

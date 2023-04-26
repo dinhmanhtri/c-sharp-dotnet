@@ -1,0 +1,15 @@
+D:\WorkSpace\C_Sharp\Basic_Xuanthulab\CS003_Class\bin\Debug\net7.0\CS003_Class.exe
+D:\WorkSpace\C_Sharp\Basic_Xuanthulab\CS003_Class\bin\Debug\net7.0\CS003_Class.deps.json
+D:\WorkSpace\C_Sharp\Basic_Xuanthulab\CS003_Class\bin\Debug\net7.0\CS003_Class.runtimeconfig.json
+D:\WorkSpace\C_Sharp\Basic_Xuanthulab\CS003_Class\bin\Debug\net7.0\CS003_Class.dll
+D:\WorkSpace\C_Sharp\Basic_Xuanthulab\CS003_Class\bin\Debug\net7.0\CS003_Class.pdb
+D:\WorkSpace\C_Sharp\Basic_Xuanthulab\CS003_Class\obj\Debug\net7.0\CS003_Class.csproj.AssemblyReference.cache
+D:\WorkSpace\C_Sharp\Basic_Xuanthulab\CS003_Class\obj\Debug\net7.0\CS003_Class.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkSpace\C_Sharp\Basic_Xuanthulab\CS003_Class\obj\Debug\net7.0\CS003_Class.AssemblyInfoInputs.cache
+D:\WorkSpace\C_Sharp\Basic_Xuanthulab\CS003_Class\obj\Debug\net7.0\CS003_Class.AssemblyInfo.cs
+D:\WorkSpace\C_Sharp\Basic_Xuanthulab\CS003_Class\obj\Debug\net7.0\CS003_Class.csproj.CoreCompileInputs.cache
+D:\WorkSpace\C_Sharp\Basic_Xuanthulab\CS003_Class\obj\Debug\net7.0\CS003_Class.dll
+D:\WorkSpace\C_Sharp\Basic_Xuanthulab\CS003_Class\obj\Debug\net7.0\refint\CS003_Class.dll
+D:\WorkSpace\C_Sharp\Basic_Xuanthulab\CS003_Class\obj\Debug\net7.0\CS003_Class.pdb
+D:\WorkSpace\C_Sharp\Basic_Xuanthulab\CS003_Class\obj\Debug\net7.0\CS003_Class.genruntimeconfig.cache
+D:\WorkSpace\C_Sharp\Basic_Xuanthulab\CS003_Class\obj\Debug\net7.0\ref\CS003_Class.dll

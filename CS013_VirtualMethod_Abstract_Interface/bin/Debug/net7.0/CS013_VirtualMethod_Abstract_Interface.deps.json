@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "CS013_VirtualMethod_Abstract_Interface/1.0.0": {
+        "runtime": {
+          "CS013_VirtualMethod_Abstract_Interface.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CS013_VirtualMethod_Abstract_Interface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

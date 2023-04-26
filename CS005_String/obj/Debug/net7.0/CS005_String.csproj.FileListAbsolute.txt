@@ -1,0 +1,15 @@
+D:\WorkSpace\C_Sharp\Basic_Xuanthulab\CS005_String\bin\Debug\net7.0\CS005_String.exe
+D:\WorkSpace\C_Sharp\Basic_Xuanthulab\CS005_String\bin\Debug\net7.0\CS005_String.deps.json
+D:\WorkSpace\C_Sharp\Basic_Xuanthulab\CS005_String\bin\Debug\net7.0\CS005_String.runtimeconfig.json
+D:\WorkSpace\C_Sharp\Basic_Xuanthulab\CS005_String\bin\Debug\net7.0\CS005_String.dll
+D:\WorkSpace\C_Sharp\Basic_Xuanthulab\CS005_String\bin\Debug\net7.0\CS005_String.pdb
+D:\WorkSpace\C_Sharp\Basic_Xuanthulab\CS005_String\obj\Debug\net7.0\CS005_String.csproj.AssemblyReference.cache
+D:\WorkSpace\C_Sharp\Basic_Xuanthulab\CS005_String\obj\Debug\net7.0\CS005_String.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkSpace\C_Sharp\Basic_Xuanthulab\CS005_String\obj\Debug\net7.0\CS005_String.AssemblyInfoInputs.cache
+D:\WorkSpace\C_Sharp\Basic_Xuanthulab\CS005_String\obj\Debug\net7.0\CS005_String.AssemblyInfo.cs
+D:\WorkSpace\C_Sharp\Basic_Xuanthulab\CS005_String\obj\Debug\net7.0\CS005_String.csproj.CoreCompileInputs.cache
+D:\WorkSpace\C_Sharp\Basic_Xuanthulab\CS005_String\obj\Debug\net7.0\CS005_String.dll
+D:\WorkSpace\C_Sharp\Basic_Xuanthulab\CS005_String\obj\Debug\net7.0\refint\CS005_String.dll
+D:\WorkSpace\C_Sharp\Basic_Xuanthulab\CS005_String\obj\Debug\net7.0\CS005_String.pdb
+D:\WorkSpace\C_Sharp\Basic_Xuanthulab\CS005_String\obj\Debug\net7.0\CS005_String.genruntimeconfig.cache
+D:\WorkSpace\C_Sharp\Basic_Xuanthulab\CS005_String\obj\Debug\net7.0\ref\CS005_String.dll
